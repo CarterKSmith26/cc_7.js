@@ -1,0 +1,1 @@
+In this challenge, you will create a landing page for a small business using HTML and CSS for layout and design, and JavaScript for DOM manipulation. You’ll create structured content, apply clean styles, and allow user-driven updates on the page.
